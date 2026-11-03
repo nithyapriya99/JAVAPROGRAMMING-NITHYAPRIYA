@@ -1,9 +1,9 @@
 # CO1 Java Assignment 1 – Campus Smart-Parking System
 
-**Student Name:** [Enter your name]  
-**Register Number:** [Enter your register number]  
+**Student Name:** R.NITHYA PRIYA  
+**Register Number:** 192421119  
 **Java Version:** JDK 8 or later  
-**Repository name:** `CSA09-<RegisterNumber>-Assignment1`
+**Repository name:** `JAVAPROGRAMMING-NITHYAPRIYA`
 
 ## Project contents
 - `Assignment_Report.md` – simple answers and explanations for Tasks 1–12.
