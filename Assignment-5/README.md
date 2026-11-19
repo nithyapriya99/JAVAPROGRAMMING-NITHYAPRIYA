@@ -1,12 +1,12 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** R.NITHYA PRIYA
 
-**Register Number:** 192511165
+**Register Number:** 192421119
 
 **Course Name:** Java Programming
 
-**Course Code:** CSA0901
+**Course Code:** CSA0902
 
 ---
 
